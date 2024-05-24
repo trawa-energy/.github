@@ -1,16 +1,19 @@
 ---
 name: New Issue
 about: New Issue
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
-##Background
+## Background
 
-##Goal
+...
 
-##Task
+## Goal
 
--   [ ] .
+...
+
+## Task
+
+- [ ] ...
