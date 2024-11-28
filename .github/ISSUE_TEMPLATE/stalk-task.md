@@ -12,7 +12,7 @@
 
 ## Acceptance criteria
 
-- Form a user perspective
+- From a user perspective
   - As a user/client I expect to see:
   -
 
