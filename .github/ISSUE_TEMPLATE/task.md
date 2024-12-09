@@ -1,3 +1,12 @@
+---
+name: Task
+about: Task
+title: ""
+labels: ""
+assignees: ""
+---
+
+
 ## Story (R)
 
 - description of the ticket/issue   R
